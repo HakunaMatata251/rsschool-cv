@@ -1,17 +1,17 @@
-# Александра Куцак  
-### *1.Контакты*:  
-* Телефон : +7 (123) 456-78-90  
+# Alexandra Kutsak
+### *1. Contacts*:
+* Phone: +7 (123) 456-78-90
 * Email: youremail@gmail.com
 * GitHub: HakunaMatata251
-### *2.Краткая информация о себе*:  
-Я студент, начинающий свой путь в IT. Моя цель — стать профессиональным разработчиком, и я готова усердно учиться и развиваться в этой сфере. Несмотря на отсутствие опыта, я обладаю сильной мотивацией, быстрой обучаемостью и стремлением к совершенствованию. Хочу присоединиться к команде, где смогу применять свои знания на практике и перенимать опыт у более опытных коллег.  
-### *3.Навыки*:  
-- Базовые знания Python (написание простых скриптов).   
-- Знакомство с Git и GitHub (использование для хранения учебных проектов).  
-- Умение работать в команде и находить решения задач.  
-### *4.Опыт работы*:  
-Нет опыта.   
-### *5.Образование*:  
-Университет: Белорусский государственный университет (1 курс).  
-### *6.Английский язык*:  
-Уровень: Pre-Intermediate (A2).
+### *2. Brief information about myself*:
+I am a student starting my career in IT. My goal is to become a professional developer, and I am ready to study hard and develop in this field. Despite the lack of experience, I have strong motivation, a quick learner and a desire to improve. I want to join a team where I can apply my knowledge in practice and learn from more experienced colleagues.
+### *3. Skills*:
+- Basic knowledge of Python (writing simple scripts).
+- Familiarity with Git and GitHub (used to store educational projects).
+- Ability to work in a team and find solutions to problems.
+### *4.Work experience*:
+No experience.
+### *5.Education*:
+University: Belarusian State University (1st year).
+### *6.English language*:
+Level: Pre-Intermediate (A2).
